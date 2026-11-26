@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Xiaoyan Li"
 description              : &description "Xiaoyan Li studies geomatics at The Hong Kong Polytechnic University and researches forest structure using airborne LiDAR."
 url                      : "https://leora-li.github.io"
-baseurl                  : "/LeoraLi"
-repository               : "Leora-LI/LeoraLi"
+baseurl                  : "/LiXiaoyan"
+repository               : "Leora-LI/LiXiaoyan"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
